@@ -1,0 +1,11 @@
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\entity\Reservation.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\repository\GuestRepository.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\business\domain\RoomReservation.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\entity\Room.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\ReservationsApplication.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\business\service\ReservationService.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\repository\RoomRepository.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\entity\Guest.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\data\repository\ReservationRepository.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\web\service\ReservationServiceController.java
+C:\Users\Laszlo\OneDrive\Documents\Coding\learning\java\Ex_Files_Learning_Spring_Boot\Exercise Files\Chapter 5\05_02\05_02_end\reservations\src\main\java\com\frankmoley\landon\web\application\ReservationController.java

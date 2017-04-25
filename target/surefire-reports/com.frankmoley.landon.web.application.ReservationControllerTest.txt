@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.frankmoley.landon.web.application.ReservationControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.297 sec - in com.frankmoley.landon.web.application.ReservationControllerTest
